@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phanaz
 - 👀 I’m interested in study and implement work project
 - 🌱 I’m currently working
-- 💞️ I’m finding it's good just to text what you learn fr goodness
+- 💞️ I’m finding it's good just to text what you learn for goodness
 
 
 <!---
